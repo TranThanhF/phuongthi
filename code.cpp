@@ -7,6 +7,6 @@ int main() {
     cin >> a;
     cout << "Nhap so thu hai: ";
     cin >> b;
-    cout << "Tich: " << a * b << endl;
+    cout << "Thuong: " << a / b << endl;
     return 0;
 }
